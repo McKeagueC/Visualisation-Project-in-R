@@ -1,3 +1,5 @@
+#### Inspired by u/gkaramanis visualisation on volcano eruptions ####
+
 #Load relevant libraries
 library(tidyverse)
 library(scales)
